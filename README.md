@@ -29,9 +29,9 @@ class WhoAmI {
 	    data-intensive systems. I am passionate about developing high-quality, scalable software that
 	    can solve real-world problems.
 
-            Collaboration is a key part of my development process, and I enjoy working with other developers to create
-	    elegant and efficient code. Learning new technologies is another passion of mine, and I am always eager
-            to explore new tools and frameworks that can help me build better applications.;
+            Collaboration is a key part of my development process, and I enjoy working with other developers 
+	    to create elegant and efficient code. Learning new technologies is another passion of mine  and
+            I am always eagerto explore new tools and frameworks that can help me build better applications.;
     }
 }
 ```
@@ -97,9 +97,8 @@ class WhoAmI {
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sh1fat&theme=gruvbox&title=MultiLanguage,Commits,Experience,Repositories,Stars,Issues,PullRequest,Followers" alt="Shifat" />
-
-![Snake animation](https://github.com/ShifatShakhawat/ShifatShakhawat/blob/output/github-contribution-grid-snake.svg)
-[![Shifat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sh1fat&theme=github-compact)](https://github.com/sh1fat/github-readme-activity-graph)
+ <img src="https://github.com/ShifatShakhawat/ShifatShakhawat/blob/output/github-contribution-grid-snake.svg" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1fat&theme=github-compact" />
 
 </p>  
 
