@@ -31,7 +31,7 @@ class WhoAmI {
 
             Collaboration is a key part of my development process, and I enjoy working with other developers 
 	    to create elegant and efficient code. Learning new technologies is another passion of mine  and
-            I am always eagerto explore new tools and frameworks that can help me build better applications.;
+            I am always eager to explore new tools and frameworks that can help me build better applications.;
     }
 }
 ```
@@ -53,10 +53,7 @@ class WhoAmI {
   <a href="https://nodejs.org" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoColor=darkgreen"></a>
   <a href="https://www.npmjs.com" target="_blank"><img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white"></a>
   <a href="https://www.mongodb.com" target="_blank"><img alt="MERN" src="https://img.shields.io/badge/-MERN-61DAFB?style=flat-square&logo=mongodb&logoColor=darkgreen"></a>
-  <a href="https://expressjs.com" target="_blank"><img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"></a>
   <a href="https://aws.amazon.com/s3" target="_blank"><img alt="AWS Buckets" src="https://img.shields.io/badge/-AWS%20Buckets-232F3E?style=flat-square&logo=amazon-s3&logoColor=yellow"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank"><img alt="WebSocket" src="https://img.shields.io/badge/-WebSocket-000000?style=flat-square&logo=websocket&logoColor=white"></a>
-  <a href="https://codesandbox.io" target="_blank"><img alt="CodeSandbox" src="https://img.shields.io/badge/CodeSandbox-000000?style=flat-square&logo=CodeSandbox&logoColor=white">
   <a href="https://git-scm.com" target="_blank"><img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=orange"></a>
   <a href="https://github.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://github.com/actions" target="_blank"><img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"></a>
@@ -79,7 +76,7 @@ class WhoAmI {
 	  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sh1fat&theme=gruvbox&title=MultiLanguage,Commits,Experience,Repositories,Stars,Issues,PullRequest,Followers,Reviews" alt="Shifat" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sh1fat&theme=onedark&title=MultiLanguage,Commits,Experience,Repositories,Stars,Issues,PullRequest,Followers" alt="Shifat" />
  <img src="https://github.com/sh1fat/sh1fat/blob/output/github-contribution-grid-snake.svg" />
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1fat&theme=github-compact" />
 
