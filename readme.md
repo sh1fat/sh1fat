@@ -22,8 +22,8 @@ class WhoAmI {
     aboutMe() {
         return
            `A full-stack developer with experience in building web applications using React, JavaScript on
-            HTML, CSS and SQL. Additionally, I have experience with the stock market and financial
-            analysis, which has helped me to build more data-driven applications.
+            HTML, CSS and SQL. Additionally, I have experience with the crypto and financial analysis,
+            which has helped me to build more data-driven applications.
 
             My GitHub repositories showcase my projects, ranging from simple web applications to complex,
 	    data-intensive systems. I am passionate about developing high-quality, scalable software that
@@ -97,7 +97,7 @@ class WhoAmI {
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sh1fat&theme=gruvbox&title=MultiLanguage,Commits,Experience,Repositories,Stars,Issues,PullRequest,Followers,Reviews" alt="Shifat" />
- <img src="https://github.com/ShifatShakhawat/ShifatShakhawat/blob/output/github-contribution-grid-snake.svg" />
+ <img src="https://github.com/sh1fat/sh1fat/blob/output/github-contribution-grid-snake.svg" />
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1fat&theme=github-compact" />
 
 </p>  
