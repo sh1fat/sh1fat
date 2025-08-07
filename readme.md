@@ -76,7 +76,7 @@ class WhoAmI {
 	  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sh1fat&theme=onedark&title=MultiLanguage,Commits,Experience,Repositories,Stars,Issues,PullRequest,Followers" alt="Shifat" />
+ <img src="https://github-profile-trophy.vercel.app/?username=sh1fat&theme=onedark&title=MultiLanguage,Commits,Experience,Repositories,Stars,Issues,PullRequest" alt="Shifat" />
  <img src="https://github.com/sh1fat/sh1fat/blob/output/github-contribution-grid-snake.svg" />
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1fat&theme=github-compact" />
 
